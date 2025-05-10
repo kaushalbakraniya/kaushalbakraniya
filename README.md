@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Kaushal S. Bakraniya 👋
 
-<!--
-**Kaushal-Bakraniya/Kaushal-Bakraniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer with a passion for technology and continuous learning. I enjoy exploring new technologies, building efficient software systems, and staying updated with the latest industry trends. My goal is to create reliable, real world applications while constantly improving my skills and knowledge in the ever evolving tech world.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages**: C#, Java, Python
+* **Frameworks**: .Net
+* **Databases**: MySQL, MS-SQL
+* **Other Tools**: Git (Version Control)
+
+## 🛠️ What I Build
+
+* **Software Systems**: I focus on building scalable, efficient, and user-friendly systems.
+* **Real-World Applications**: My goal is to create software that solves real problems and adds value to users.
+
+## 🌱 Currently Learning
+
+* Python programming
+
+## 📬 Connect with Me
+
+* LinkedIn: https://www.linkedin.com/in/kaushal-bakraniya/
