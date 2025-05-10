@@ -18,12 +18,6 @@ I am a software developer with a passion for technology and continuous learning.
 
 * Python programming
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushal-bakraniya&show_icons=true&hide_title=true)
-
-![Repos](https://img.shields.io/github/repos/kaushal-bakraniya?style=flat&logo=github)
-
 ## 📬 Connect with Me
 
 * LinkedIn: https://www.linkedin.com/in/kaushal-bakraniya/
