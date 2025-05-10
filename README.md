@@ -20,6 +20,8 @@ I am a software developer with a passion for technology and continuous learning.
 
 ## 📈 GitHub Stats
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaushal-bakraniya&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal-bakraniya&layout=compact&theme=default)
 
 ## 📬 Connect with Me
