@@ -20,7 +20,7 @@ I am a software developer with a passion for technology and continuous learning.
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalbakraniya&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal-bakraniya&layout=compact&theme=default)
 
 ## 📬 Connect with Me
 
