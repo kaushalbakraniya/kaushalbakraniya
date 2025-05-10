@@ -5,7 +5,7 @@ I am a software developer with a passion for technology and continuous learning.
 ## 🚀 Technologies & Tools
 
 * **Languages**: C#, Java, Python
-* **Frameworks**: .Net
+* **Frameworks**: .NET, DevExpress
 * **Databases**: MySQL, MS-SQL
 * **Other Tools**: Git (Version Control)
 
