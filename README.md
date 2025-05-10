@@ -1,4 +1,4 @@
-# Hi, I'm Kaushal S. Bakraniya 👋
+# Hello, I am Kaushal S. Bakraniya 👋
 
 I am a software developer with a passion for technology and continuous learning. I enjoy exploring new technologies, building efficient software systems, and staying updated with the latest industry trends. My goal is to create reliable, real world applications while constantly improving my skills and knowledge in the ever evolving tech world.
 
