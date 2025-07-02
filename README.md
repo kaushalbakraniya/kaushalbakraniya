@@ -20,5 +20,5 @@ I am a software developer with a passion for technology and continuous learning.
 
 ## 📬 Connect with Me
 
-* Webpage: https://kaushal-bakraniya.github.io/webpages/
+* Webpage: https://kaushal-bakraniya.github.io
 * LinkedIn: https://www.linkedin.com/in/kaushal-bakraniya/
