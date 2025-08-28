@@ -13,12 +13,3 @@ I am a software developer with a passion for technology and continuous learning.
 
 * **Software Systems**: I focus on building scalable, efficient, and user-friendly systems.
 * **Real-World Applications**: My goal is to create software that solves real problems and adds value to users.
-
-## 🌱 Currently Learning
-
-* Python programming
-
-## 📬 Connect with Me
-
-* Webpage: https://kaushal-bakraniya.github.io/
-* LinkedIn: https://www.linkedin.com/in/kaushal-bakraniya/
